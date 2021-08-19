@@ -1,4 +1,4 @@
-module github.com/dphaener/cmd
+module github.com/dphaener/call
 
 go 1.14
 
